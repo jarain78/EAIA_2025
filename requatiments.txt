@@ -1,0 +1,12 @@
+flwr
+opencv-python
+numpy
+Pillow
+customtkinter
+python-geoip-geolite2
+tensorflow
+
+tdqm
+matplotlib
+networkx
+rerun-sdk
