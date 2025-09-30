@@ -14,7 +14,7 @@ import sys
 # Configuración del cliente
 SERVER_HOST = '127.0.0.1'
 SERVER_PORT = 5001
-MODEL_PATH = "./Models/"
+MODEL_PATH = "Models/"
 
 # Función para imprimir con colores en la terminal
 def print_colored(message, color_code):
